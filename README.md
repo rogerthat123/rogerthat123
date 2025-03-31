@@ -37,4 +37,4 @@ I'm a passionate developer with expertise in a wide range of technologies. My go
  
 ## 📫 How to Reach Me
  
-- - [LinkedIn](https://www.linkedin.com/in/rogerio-fonseca-39983427a/)
+-  [LinkedIn](https://www.linkedin.com/in/rogerio-fonseca-39983427a/)
