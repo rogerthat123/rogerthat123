@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hello, I'm Rogério Fonseca!
 
-<!--
-**rogerthat123/rogerthat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with experience in various programming languages and frameworks. I love building robust applications, solving complex problems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Skills:
+- **Programming Languages:** C, Java, JavaScript, Kotlin, Swift, SQL
+- **Web Development:** HTML5, CSS, JavaScript, Angular, Laravel
+- **Databases:** SQL, MySQL
+- **Cloud & Productivity:** Microsoft 365
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 📌 My Top Repositories:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+### 🔗 Connect With Me:
+- [LinkedIn](https://www.linkedin.com/in/rogerio-fonseca-39983427a/)
+
+Let's connect and collaborate! 🚀
+
