@@ -21,6 +21,7 @@ I'm a passionate developer with expertise in a wide range of technologies. My go
  
 ### Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
  
 ### Tools & Platforms
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
